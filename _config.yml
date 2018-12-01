@@ -1,0 +1,8 @@
+collections:
+  - teksten
+  - activiteiten
+
+keep files:
+  - css
+  - js
+  - scss
